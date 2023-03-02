@@ -2,10 +2,10 @@
 
 class Banco
 {
-    private static $dbNome = 'task_todo';
-    private static $dbHost = 'localhost';
+    private static $dbNome = 'todolist';
+    private static $dbHost = 'Localhost:3306';
     private static $dbUsuario = 'root';
-    private static $dbSenha = '';
+    private static $dbSenha = 'eqFR2aNXmzkBc0RoDKVd@';
     
     private static $cont = null;
     
